@@ -1,2 +1,2 @@
 Creating a new branch is quick and simple &.
-git is good.
+git is good tool.
